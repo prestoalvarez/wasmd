@@ -80,7 +80,7 @@ Here are some ideas we may add in the future
 This is inspired by the Agoric design, but also adds considerable complexity to both the `x/wasm`
 implementation as well as the correctness reasoning of any given contract. This will not be
 available in the first version of our "IBC Enabled contracts", but we can consider it for later,
-if there are concrete user cases that would significantly benefit from this added complexity. 
+if there are concrete use cases that would significantly benefit from this added complexity.
 
 ### Add multihop support
 
