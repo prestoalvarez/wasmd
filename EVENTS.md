@@ -5,7 +5,7 @@
 Events are an essential part of the Cosmos SDK. They are similar to "logs" in Ethereum and allow a blockchain
 app to attach key-value pairs to a transaction that can later be used to search for it or extract some information
 in human readable form. Events are not written to the application state, nor do they form part of the AppHash,
-but mainly intended for client use (and become an essential API for any reactive app or app that searches for txs). 
+but are mainly intended for client use (and become an essential API for any reactive app or app that searches for txs).
 
 In contrast, transactions also have a binary "data" field that is part of the AppHash (provable with light client proofs,
 part of consensus). This data is not searchable, but given a tx hash, you can be guaranteed what the data returned is.
