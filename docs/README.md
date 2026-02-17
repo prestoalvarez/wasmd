@@ -1,3 +1,3 @@
 # Generated doc only
 
-Tutorials and project doc is available on https://docs.cosmwasm.com/
+Tutorials and project docs are available on https://docs.cosmwasm.com/
